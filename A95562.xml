@@ -1,0 +1,313 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>New preachers, nevv. Greene the feltmaker, Spencer the horserubber, Quartermine the brewers Clarke, with some few others, that are mighty sticklers in this new kinde of talking trade, which many ignorant coxcombes call preaching. Whereunto is added the last tumult in Fleetstreet, raised by the disorderly preachment, pratings, and pratling of Mr. Barebones the leather-seller, and Mr. Greene the felt-maker, on Sunday last the 19. of Decemb.</title>
+            <author>Taylor, John, 1580-1653.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95562</idno>
+            <idno type="STC">Wing T486</idno>
+            <idno type="STC">Thomason E180_26</idno>
+            <idno type="STC">ESTC R12760</idno>
+            <idno type="EEBO-CITATION">99859336</idno>
+            <idno type="PROQUEST">99859336</idno>
+            <idno type="VID">111410</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95562)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111410)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 31:E180[26])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>New preachers, nevv. Greene the feltmaker, Spencer the horserubber, Quartermine the brewers Clarke, with some few others, that are mighty sticklers in this new kinde of talking trade, which many ignorant coxcombes call preaching. Whereunto is added the last tumult in Fleetstreet, raised by the disorderly preachment, pratings, and pratling of Mr. Barebones the leather-seller, and Mr. Greene the felt-maker, on Sunday last the 19. of Decemb.</title>
+                  <author>Taylor, John, 1580-1653.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.T. ,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>in the year 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Illustrated title page.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Imperfect: title page torn affecting imprint; significant show-through throughout text.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Barebon, Praisegod, 1596?-1679 --  Early works to 1800.</term>
+               <term>Greene, John, --  Feltmaker --  Early works to 1800.</term>
+               <term>Quartermine, --  Brewers clarke.</term>
+               <term>Spencer, John, --  Groom.</term>
+               <term>Lay preaching --  England --  Early works to 1800.</term>
+               <term>Dissenters, Religious --  England --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Judith Siefring</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111410:1"/>
+            <pb facs="tcp:111410:1" rendition="simple:additions"/>
+            <p>NEW PREACHERS, NEVV. <hi>Greene</hi> the Feltmaker, <hi>Spencer</hi> the Horſe rubber, <hi>Quartermine</hi> the Brewers Clarke, with ſome few others, that are mighty ſticklers in this new kinde of talking Trade, which many ignorant Coxcombes call Preaching. Whereunto is added the laſt Tumult in Fleetſtreet, rai<g ref="char:EOLhyphen"/>ſed by the diſorderly preachment, pratings, and pratling of Mr. <hi>Barebones</hi> the Leather-ſeller, and Mr. <hi>Greene</hi> the Felt<g ref="char:EOLhyphen"/>maker, on Sunday laſt the 19. of Decemb.</p>
+            <p>
+               <figure>
+                  <p>Greene the Feltmaker.</p>
+                  <p>Barebones the Leather ſeller.</p>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="part">
+            <pb facs="tcp:111410:2"/>
+            <head>An Epiſtle written by a private friend to <hi>Iohn Greene,</hi> a Hat-maker.</head>
+            <p>
+               <seg rend="decorInit">M</seg>Aſter <hi>Greene,</hi> you would be taken to be a man fea<g ref="char:EOLhyphen"/>ring God, and not onely ſo, but a teacher in Iſrael, yea; ſay more, a teacher of Teachers; for you thinke that God hath made you wiſer then your Teachers, and therefore you take upon you not onely to reprove them for ſome things that you judge amiſſe, but alſo to inſtruct them how to preach the word, not the Law nor legall preparation for the receiving of Chriſt, that in your opinion is not Gods way. Now truly ſir I thinke beſt that you let this queſtion alone, till you (as thoſe tradeſmen which Chriſt did call) bee ſent to convert the Infidels; but it is like as you preach, ſo you thinke that all ſuch as meet not in private Con<g ref="char:EOLhyphen"/>venticles, as you doe, are Infidels, without Chriſt in the world, and therefore you thinke it as great folly for Miniſters now to preach legall preparations to theſe Engliſh pagans, as for the Apoſtles to have preached it to the Gentile pagans. <hi>S<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>r</hi> ſaid, that when he tooke a text to preach on, that he <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> le<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he ſhould fall upon ſomewhat that others had beene preaching on, and ſo printed, fearing if he ſhould ſo doe, it would ſcandalize his Miniſtery. Doe not theſe things come from proud ſpirits, that he, and you a Hatmaker, and a Horſe-keeper, will ta<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> upon you to be Ambaſſadours of God, to teach<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> or teachers, and take upon you to be Miniſters of the Goſpell in theſe dayes of light, in theſe times, when (thankes be to God) wee may lay, Great are the company of Preachers, yea and ſuch Preachers that are able out of originall tongues to divide the word aright, who in learning and godlineſſe of lives are not inferiour to the Min<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſters of any Churches in Europe, and you wil reprove them and <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſtruct them, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nd teach them h<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r to teach others.</p>
+            <pb facs="tcp:111410:2"/>
+            <p>O Mr. <hi>Greene</hi> for ſhame bluſh, I ſay againe bluſh, and ſay in theſe words of holy <hi>Iob, Iob</hi> 40.<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, 5. <hi>I will lay my hand upon my mouth: Once have I ſpoken, but I will not anſwer <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee twice.</hi> But I will proceed no <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. But put the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> you are reſolved to goe on in this way; which indeed I too much feare, let us rea<g ref="char:EOLhyphen"/>ſon the matter a little what ground you have for ſo doing<g ref="char:punc">▪</g> cal<g ref="char:EOLhyphen"/>ling from man I am ſure you have none, for it is not the cuſtome of any well ſetled Church in Europe to ordaine ſuch as you, I meane Hatmakers, Coblers, Taylors, Horſekeepers, upon one and the ſame day to be plancke and the Pulpit, in the forenoone making a hat, or rubbing a horſe, in the afternoone preaching a Sermon. But you will ſay, though you have not a calling from man, yet from God you have an inward calling. Who ſhall be judge of that Mr. <hi>Greene?</hi> your ſelfe? Thinke of what the Apo<g ref="char:EOLhyphen"/>ſtle ſaith, 2 <hi>Cor.</hi> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>0.12. Such as meaſure themſelves by them<g ref="char:EOLhyphen"/>ſelves, are not wi<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>. But conſider I pray you that our Lord would not have had the Aſſe, <hi>Matth.</hi> 21.3. if he had not ſtood in need of him. Now the truth is, our Church hath no need of ſuch as you, unlearned, a ſelfe-conceited hatmaker; <hi>Spencer,</hi> a wave<g ref="char:EOLhyphen"/>ring minded fellow, a ſtable unſtable companion in all his wai<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>, having beene a Serving man, a Porter, a Groome to a Stable, a Chandler, a Weaver, yea more, of as many trades almoſt as re<g ref="char:EOLhyphen"/>ligions: but the Church hath need of him, ſo he ſaith. But I ſay it is a proud ſpeech. It is true, that in the beginning of Queene <hi>Elizabeths</hi> reigne, the Popiſh Prieſts and Friers being diſm<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed, there was a ſcarcity for the preſent of learned men, and ſo ſome tradeſmen were permitted to leave their trades, and betake themſelves to the miniſtery; but it was neceſſity that did then conſtraine ſo to doe: but thankes bee to God we have now go ſuch neceſſity, and therefore this practice of you and your com<g ref="char:EOLhyphen"/>ragues caſts in ill aſperſion upon our good God, that doth fur<g ref="char:EOLhyphen"/>niſh our Church plentifully with learned men; and it doth alſo ſcandalize our Church, as if we ſtood in need of ſuch as you to preach the Goſpell. But you will ſay that our Lord choſe tradeſ<g ref="char:EOLhyphen"/>men, fiſhermen, and others, and <hi>Paul</hi> was a Tent maker, &amp;c, t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e
+<pb facs="tcp:111410:3"/> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ame God that choſe them, hath called you. Your wiſedome is great, and it is wittily ſaid: but the tree is knowne by the fruit, and if you can doe the like workes as they did, wee will beleeve that you have the like calling as they had. Can you ſpeake with ſtrange tongues, and worke miracles? When our Lord choſe mechanicks to be his meſſengers and miniſters, it was to ſhew his power, that very babes ſhould perfit his praiſe, and confound the wiſedome of the world, when ſuch mighty workes ſhould be effected by ſuch weake inſtruments. And indeed it was ſaid by <hi>Moſes,</hi> that God gave the Law in ſuch wonders, that <hi>Moſes</hi> law might for ever be beleeved: ſo of Chriſt, that his Goſpell might for ever bee beleeved. Hee choſe ſuch as knew not their letters, ignorant men, Act. 4.13. which made the world to won<g ref="char:EOLhyphen"/>der how they could doe ſuch things. God gave teſtimony both with ſignes and wonders, and divers miracles, and gifts of the Holy Ghoſt, Heb. 2.4. but we ſee none of theſe things in you maſter <hi>Greene;</hi> what is that which you can doe more then any b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffling Sectary? you tell us you have the Spirit, ſo doe they, but ſhew us no works to evince us, but as common Mountebanks boaſt it out of themſelves, ſo doe you: and as men learne trades, ſo you have private meetings, in which you learne to preach, at which for a time you are onely auditors: ye be at firſt like birds in the ſhell: ſilly diſcontented zelots: they onely are the fiſh that bite at the ſeducers b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>it, which being once caught and per<g ref="char:EOLhyphen"/>ve<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ted, then is the ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll broke, and the bird crept forth, and the ſimple one is become a ſchiſmatick; and then at their meetings beginne to talke, and ſometimes thinking himſelfe to underſtand ſuch or ſuch a Scripture, he will then take upon him to expound Scriptures, the which they call propheſying or preaching; and thus as one of them told the Lords in the Parliament, that they were all preachers, for ſo they practiſe and exerciſe themſelves as young players doe in private, till they bee by their brethren judged fit for the pulpit, and then up they goe, and like Mounte<g ref="char:EOLhyphen"/>bankes play their parts, making ſome of their old honeſt ac<g ref="char:EOLhyphen"/>quaintance beleeve that all they doe is by the Spirits immediate infuſion, and that it is ſo, they cunningly apply that Scripture of
+<pb facs="tcp:111410:3"/> a promiſe by Chriſt, that ſaith, Take no thought what yee ſhall ſay, for it ſhall be given in the ſelfe ſame houre: ſo theſe men will profeſſe that they ſpeake by the Spirit, and that they pray by the Spirit, for which they will cite 1 Cor. 14.15. where the Apoſtle ſpeaketh of praying with the ſpirit, and praying with underſtanding alſo: but let them take the latter end of that verſe with them, and let them ſing with the Spirit, and ſing with un<g ref="char:EOLhyphen"/>derſtanding alſo, and let the cunningeſt Mountebank of them all play his part, let him ſing Pſalmes <hi>ex tempore</hi> by the ſpirit, and I will ſay hee is a gull indeed that is ſeduced by them. But the Apoſtle there ſpeakes of thoſe divine men that had the Spirit of propheſie given for the planting of the Church: for the Apoſtle ſaith, 1 Cor. 14.21<g ref="char:punc">▪</g> That if an unbeleever come in when they are propheſying, he is convinced, that the ſecrets of his heart is manifeſted, and falling downe upon his face worſhips God, and ſaith, Of a truth God is in them. So it w<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s with the woman of Samaria, Ioh. 4.29 when hearing our Lord Chriſt, ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> ran and told her neighbours, ſaying, Come ſee a man that told mee all things that over I did, is not this the Chriſt? Theſe were thoſe that could then pray by the Spirit, ſing by the Spirit, and with<g ref="char:EOLhyphen"/>out ſtudying preach by the Spirit: and now every proud ſect<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>rie takes upon him to doe the like; <hi>Greene, Spencer, Robinſon,</hi> yea all Browniſts, Anabaptiſts, Familiſts, Arrians; can all pre<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ch by the ſpirit, pray by the ſpirit, but they cannot ſing by the ſpirit; then t<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me required it, the worke required it; it was the time of which the Prophets foretold, that God would poure out the Spirit upon all fleſh, and their ſonnes and their daughters ſhould propheſie: and dare our proud ſectaries aſſume unto themſelves the like gifts: there is not in our dayes that occaſion and neceſ<g ref="char:EOLhyphen"/>ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y for men to be ſo gifted: have you new Goſpels or new do<g ref="char:EOLhyphen"/>ct<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ines to publiſh to the world? I feare indeed you have many ſtrange whimſies, and though you have not the like gifts as the Primitive Chriſtians, yet you have many juggling trickes to de<g ref="char:EOLhyphen"/>ceive the ſimple; in th<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> you come not much behinde the Ieſui<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, but like <hi>Iannes</hi> and <hi>Iambres,</hi> ye have cunning ſl<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> his to bewitch and deceive the ſimple. Away with theſe trickes, put off your
+<pb facs="tcp:111410:4"/> vizards, and turne honeſt men, follow your trades painfully pay your debts honeſtly, releeve the poor charitably, beare burdens with your neighbours willingly, obey your governors readily, if you would doe thus, wee ſhould not have ſo many ſectaries and beggers about the towne. I tell you I am angry with you, my very purſe feeles it, it is your enticing to Conventicles and private meetings that makes men and women to neglect their callings and trades two or three dayes a weeke to follow your heeles; and though they doe not follow you ſo o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t, yet they ſpend away that precious time that they ſhould work for them<g ref="char:EOLhyphen"/>ſelves and families, and be able to releeve the pop<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e, to p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ate of your doctrines, and to ſet other upon admiring what ſtrange gifts and abilities you have given of God. If this be not ſo, how comes it to paſſe in ſuch a City as this, neere the one halfe of men that breakes are biaſed your wayle and how many poure families in every pariſh receive almes, and runne in debt, and make no conſcience of paying, and yet they muſt bee at your meetings, like buſie-bodies, ſpending away their time in chat<g ref="char:EOLhyphen"/>ting one with another, cenſuring thoſe of their neighbours that are not as fooliſh and factious as themſelves. Mr. <hi>Greene,</hi> Mr. <hi>Greene,</hi> leave off theſe wayes, bring home ſuch as you have cau<g ref="char:EOLhyphen"/>ſed to ſtray. It is ſuch as you that vent your venome againſt our godly Preachers, and the divine Prayers of our Church, yea, a<g ref="char:EOLhyphen"/>g<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>inſt all ſolemne ſet forme of prayers, all is from Antichriſt, but that which you preach is moſt divine, that comes freſh from the ſpirit, the other is an old dead ſacrifice compoſed (I ſhould have ſaid killed) ſo long time agone, that now it ſtinkes. It is ſo that in the yeare of the Lord 1549. it was compiled by Doctor <hi>Cranmer,</hi> Dr. <hi>Goodricke,</hi> Dr. <hi>Skip,</hi> Dr. <hi>Thrilby,</hi> Dr. <hi>Day,</hi> Dr. <hi>Hol<g ref="char:EOLhyphen"/>becke,</hi> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Ridly,</hi> Dr. <hi>Cox,</hi> D<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>. <hi>Tailor,</hi> Dr. <hi>Haines,</hi> Dr. <hi>Redman,</hi> Mr. <hi>Robinſon</hi> Archdeane of L<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ce<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> but what are all theſe? they are not to be compared to <hi>Iohn Greene</hi> a Hatmaker, for hee thinketh what he bluſtreth forth upon the ſudden is farre better then that which theſe did maturely and deliberately compoſe. Now truly I will ſay no more of <hi>Iohn Greene</hi> but this, I think he hath more fellowes about the towne, ſuch as <hi>Salomon</hi> ſpeaks of,
+<pb facs="tcp:111410:4"/> Prou<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 26.<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wiſer <gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap> their <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> w<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>e conceits, the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> men that can render E<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>: a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> 
+               <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>, truth ſaith, Prov. 10. &amp; ſuch prating fooles ſh<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll fall: and as for ſuch as will ſuffer themſelves to be ſeduced and led by <hi>Greene,</hi> or ſuch like, I will ſay to them, Much good doe it them, that have got a proud Vicar o<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> fooles for their ghoſtly father. But ſome will ſay, <hi>Greene</hi> is a very ho<g ref="char:EOLhyphen"/>neſt man and what he doth is in ſinceritie of heart. I anſwer, So did the Hereticks of old and all ſectaries in our dayes, in ſi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>c<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ri<g ref="char:EOLhyphen"/>tie of heart: judge all but themſelves to be out of the right path<g ref="char:EOLhyphen"/>way to heaven; and this is the cunningneſſe of the old Serpent, if he cannot hold men in one ſn<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>re, he will lay ano<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>her for them, if he cannot keep <hi>Iohn Greene</hi> a p<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tting companion, he will make a ſchiſmatick of him, and he ſhal nor feare to take the Prieſthood and Miniſterie upon him, and to tell <hi>Moſes</hi> and <hi>Aaron</hi> to their fa<g ref="char:EOLhyphen"/>ces, That you take too much upon you ye ſons of <hi>Levi.</hi> Are not all the Lords people holy as well as you? Hath not H<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tmakers, Horſekeepers, Coblers and Weavers as great abilities of the ſpi<g ref="char:EOLhyphen"/>rit, and as much holineſſe, as any Doctor of them all, that is br<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d up in learned Tongues and Arts? Thus Satan tranſformes him<g ref="char:EOLhyphen"/>ſelfe into an Angell of light, to deceive the ſimple; for if the Devill in his inſtruments ſhould come in his colours, who then could have <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ene ſeduced by him; if <hi>Greene</hi> had beene a potting in the forenoone, and preaching in the afternoone, hee could hardly have perſwaded a man to have given credit to his do<g ref="char:EOLhyphen"/>ctrine, neither to his words, as to have given in a hat 5. ſhillings in 20. more to him then to another. But both hee and many of his fraternity know very well how to get mony, can they but turne non-conformiſts, or deliver ſtrange doctrines, or become a leader of ſome ſect, then who but them, both for rich wives, and many cuſtomers. Full truly doth <hi>Iude</hi> in his Epiſtle ſpeake of ſuch, ſaving, <hi>Theſe filthy dreamers defile the fleſh, deſpiſe dominion, and ſpeak evill of dignities. Woe unto them, for they have gone in the way of Cain, and ran greedily after the error of Balam for reward, and periſhed in the gainſaying of Core.</hi>
+            </p>
+         </div>
+         <div type="part">
+            <pb facs="tcp:111410:5"/>
+            <head>A briefe touch, in memory of the fiery zeale of Mr. <hi>Barebones</hi> a reverend unlearned Letherſeller, who with Mr. <hi>Green</hi> the Feltmaker, were both taken preaching or prating in a Conventicle amongſt a 100. perſons, on Sunday 19. of Decem. laſt, 1641.</head>
+            <p>
+               <seg rend="decorInit">A</seg>Fter my Commendations <hi>Mr. Raubones (Barebones,</hi> I ſhould have ſaid) in acknowledgement of your too much troubling your ſelfe, and moleſting of others: I have made b<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ld to relate briefly your laſt Sundayes afternoones worke, loſt in time your meritorious paines-taking ſhould be forgot<g ref="char:EOLhyphen"/>ten, (for the which, you and your Aſſociate <hi>Mr. Greene,</hi> do well deſerve to have your heads in the cuſtody of young <hi>Gregory</hi> to make but tones for hempen loopes) you two having the Spirit ſo full that you muſt either vent or burſt, did on the Sabbath aforeſaid, at your houſe neere Fet<g ref="char:EOLhyphen"/>terlane end in Fleetſtreet, at the ſigne of the Locke and Key, there and then did you and your conſort (by turnes) unlocks moſt delicate ſtrange doctrine, where were about thouſands of people, of which number, the moſt ignorant ap<g ref="char:EOLhyphen"/>pl<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ud<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d your preaching, and thoſe that underſtood any thing derided your ig<g ref="char:EOLhyphen"/>gnorant prating; but after foure houres long and tedious ta<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ling, the houſe where you were was beleagured with multitudes that thought it fit to rowſe you out of your blinde devotion; ſo that your walles were battered, your win<g ref="char:EOLhyphen"/>dowes all in fractions torne into ratling ſhivers, and worſe the hurly hurly might have beene, but that ſundry, Conſtables came, in with ſtrong guards of men to keepe the peace, in which conflict your Signe was beaten downe and un<g ref="char:EOLhyphen"/>hang'd to make ro<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>me for the owner to ſupply the place: all which ſhewes had never beene; had <hi>Mr. Greene</hi> and <hi>Mr. Barebones</hi> beene content (as they ſhould have done) to have gone to their owne Pariſh Churches. Alſo the ſame day a mad ruſticke fellow (<gap reason="illegible" resp="#PDCC" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <hi>Prophet Hunt</hi>) did his beſt to raiſe the like ſtrife and trouble <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Sepulchres</hi> Church.</p>
+            <p>Con<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ider and avoid theſe diſorders, good Reader.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:111410:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
